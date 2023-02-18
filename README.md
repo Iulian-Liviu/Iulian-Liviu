@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Julian
 #### I am .NET Developer
-![I am .NET Developer](untitled (1).png)
+![I am .NET Developer](untitled.png)
 
 As a passionate and open-minded individual, programming and technology have always been my top interests. I am constantly in awe of the advancements made in the world of computers and have made it my mission to stay updated with the latest developments.
 
