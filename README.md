@@ -22,9 +22,7 @@ Skills: .NET / ASP/ API / WPF / C#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iulian-Liviu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iulian-Liviu&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Iulian-Liviu)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Iulian-Liviu&show_icons=true&count_private=true)
 
 ![GitHub metrics](https://metrics.lecoq.io/Iulian-Liviu)  
 
